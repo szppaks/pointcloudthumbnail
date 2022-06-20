@@ -1,7 +1,9 @@
 # pointcloudthumbnail
-A study: Generates thumbnails from point cloud
+A study: A novel algorithm to generate thumbnails from point cloud
 
-fig3.jpg and fig6.jpg show the difference between this algorithm and voxel subsampling.
+The algorithm focused to save the interesting points; so the result will be more recognizable, than the simple voxel subsampling.
+
+Pumps.jpg, fig3.jpg and fig6.jpg show the difference between this algorithm and voxel subsampling.
 
 Sample program
 Thumbnail generator for point cloud
