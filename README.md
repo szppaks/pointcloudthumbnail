@@ -1,5 +1,7 @@
 # pointcloudthumbnail
-Sample: Generates thumbnails from point cloud
+A study: Generates thumbnails from point cloud
+
+fig3.jpg and fig6.jpg show the difference between this algorithm and voxel subsampling.
 
 Sample program
 Thumbnail generator for point cloud
